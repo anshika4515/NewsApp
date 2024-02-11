@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 35,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Macworld"
+            },
+            "author": "Roman Loyola",
+            "title": "iTunes for Windows nears EOL with launch of Apple Music, TV 'standalone experiences' - Macworld",
+            "description": "iCloud app also gets a redesign with a cleaner interface.",
+            "url": "https://www.macworld.com/article/2230075/itunes-windows-end-of-life-music-tv-devices-apps.html",
+            "urlToImage": "https://www.macworld.com/wp-content/uploads/2024/02/apple-windows-apps-2.jpg?quality=50&strip=all&w=1024",
+            "publishedAt": "2024-02-09T04:12:00Z",
+            "content": "Skip to contentType your search and hit enter\r\nWhen you purchase through links in our articles, we may earn a small commission. This doesn't affect our editorial independence\r\n.\r\nApple has announced … [+1215 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "'My memory is fine' - Biden hits back at special counsel - BBC.com",
+            "description": "The president rejects findings he disclosed classified material and denies he forgot when his son died.",
+            "url": "https://www.bbc.com/news/world-us-canada-68244352",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9B13/production/_132599693_9c62ec50c4f8ba485161b27ea401376521bfa2ee0_0_3712_24721000x666.jpg",
+            "publishedAt": "2024-02-09T03:50:54Z",
+            "content": "Watch: Biden responds to special counsel - 'I'm elderly and know what the hell I'm doing'\r\nUS President Joe Biden has angrily criticised an investigation that found he mishandled top secret files and… [+4956 chars]"
+        },
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": "Jeff Legwold",
+            "title": "Julius Peppers, Dwight Freeney lead Pro Football's 2024 Hall of Fame class - ESPN",
+            "description": "The 2024 Pro Football Hall of Fame enshrinement class will include Julius Peppers, Dwight Freeney, Patrick Willis, Devin Hester and Andre Johnson, while Randy Gradishar and Steve Michael were senior finalists also selected to be enshrined.",
+            "url": "https://www.espn.com/nfl/story/_/id/39488075/julius-peppers-dwight-freeney-lead-pro-football-2024-hall-fame-class",
+            "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2018%2F0402%2Fr350414_1296x729_16%2D9.jpg",
+            "publishedAt": "2024-02-09T03:21:00Z",
+            "content": "The 2024 Pro Football Hall of Fame enshrinement class will honor defense as well as a kickoff/punt returner many consider the best who ever did it.\r\nThe seven-member Class of 2024 will include defens… [+4580 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": null,
+            "title": "Man who shoveled new channel into Lake Michigan convicted of 2 misdemeanors - CBS News",
+            "description": "Andrew Howard of Frankfort was found guilty of tampering and vandalism Wednesday during a brief trial in front of U.S. Magistrate Judge Ray Kent.",
+            "url": "https://www.cbsnews.com/news/man-convicted-for-diverting-platte-river-to-ease-boat-access-on-lake-michigan/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/02/08/e08eaf49-e608-4523-a63c-e3f42adb765f/thumbnail/1200x630/4f2bbc326146e10314701c854762c0df/platte-river-michigan-before-and-after-diversion-aug-2022.png?v=39487f160c45192867463e7cb2b51dad",
+            "publishedAt": "2024-02-09T03:09:13Z",
+            "content": "A man accused of diverting a national park river to ease boat access to Lake Michigan has been convicted of two misdemeanors.\r\nAndrew Howard of Frankfort, Michigan, was found guilty of tampering and … [+1951 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Israel-Gaza war: US says it will not back unplanned Rafah offensive - BBC.com",
+            "description": "Officials warn Israel over sending troops into Rafah without due consideration for refugees there.",
+            "url": "https://www.bbc.com/news/world-middle-east-68247050",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/BDD7/production/_132599584_kidsgetty.jpg",
+            "publishedAt": "2024-02-09T02:04:56Z",
+            "content": "By Tom Bateman State Department Correspondent &amp; Kathryn Armstrong &amp; Patrick JacksonBBC News\r\nChildren sheltering at a school in Rafah on Thursday\r\nThe US has warned Israel that staging a mili… [+3431 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Jake Fischer",
+            "title": "NBA trade deadline 2024: Low-key day improves odds for summer blockbusters - Yahoo Sports",
+            "description": "Teams like the Lakers and Knicks will have more flexibility and draft capital to make major moves this offseason.",
+            "url": "https://sports.yahoo.com/nba-trade-deadline-2024-low-key-day-improves-odds-for-summer-blockbusters-020104872.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/uLi96hD46detmUasDtIlFw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04NjI-/https://s.yimg.com/os/creatr-uploaded-images/2024-02/11fd8ed0-c6ee-11ee-affb-5f7950e17d96",
+            "publishedAt": "2024-02-09T02:01:00Z",
+            "content": "This course is complete. The 2024 NBA trade deadline has come and gone. When it comes to the menu of options in the NBAs marketplace, well continue writing about how the previous meals leftovers alwa… [+10898 chars]"
+        },
+        {
+            "source": {
+                "id": "nfl-news",
+                "name": "NFL News"
+            },
+            "author": null,
+            "title": "List of 'NFL Honors' award winners from 2023 NFL season - NFL.com",
+            "description": "The NFL celebrated another year of excellence around the league on Thursday night at the 13th annual NFL Honors. Here is the complete list of winners announced at Phoenix’s Symphony Hall.",
+            "url": "https://www.nfl.com/news/list-of-nfl-honors-award-winners-from-2023-nfl-season",
+            "urlToImage": "https://static.www.nfl.com/image/upload/t_editorial_landscape_12_desktop/league/gamw1wtlijy4gnlobhzh",
+            "publishedAt": "2024-02-09T01:46:00Z",
+            "content": "The NFL celebrated another year of excellence around the league on Thursday night at the 13th annual NFL Honors.\r\nHosted by Keegan-Michael Key, the show included the announcement of The Associated Pr… [+160 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Lisa Respers France",
+            "title": "Usher proud to be first independent artist to headline Super Bowl halftime show - CNN",
+            "description": "When Usher appeared as a special guest with the Black Eyed Peas as they headlined the halftime show at Super Bowl XLV in 2011, he began to manifest becoming the headliner himself.",
+            "url": "https://www.cnn.com/2024/02/08/entertainment/usher-super-bowl-halftime-show/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1988734515.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-02-09T01:41:00Z",
+            "content": "When Usher appeared as a special guest with the Black Eyed Peas as they headlined the halftime show at Super Bowl XLV in 2011, he began to manifest becoming the headliner himself.\r\nDuring Thursdays A… [+2050 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Francesca Ebel",
+            "title": "Tucker Carlson releases video of interview with Russian leader Putin - The Washington Post",
+            "description": "The Russian president appeared to choose to speak to the former Fox News host because of his perceived influence in the Republican Party in an election year.",
+            "url": "https://www.washingtonpost.com/world/2024/02/08/tucker-carlson-putin-interview-released/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/02-09-2024/t_5ffba6f7f6c04d9bb3943fbbf7e14484_name_Sequence_01_00_01_20_01_Still053.jpg&w=1440",
+            "publishedAt": "2024-02-09T01:24:44Z",
+            "content": "Russian President Vladimir Putin spent the first 30 minutes of his two-hour-long interview with former Fox News host Tucker Carlson giving a revisionist historical tirade on the founding myths of Rus… [+6425 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Daily News"
+            },
+            "author": "Molly Crane-Newman",
+            "title": "Seven indicted in Times Square migrant-NYPD brawl; DA Alvin Bragg denies reported out-of-state busts in case - New York Daily News",
+            "description": "Mayor Adams praised Bragg and the Police Department’s sophisticated handling of the case and urged New Yorkers to respect the legal process.",
+            "url": "http://www.nydailynews.com/2024/02/08/seven-indicted-in-times-square-migrant-nypd-brawl-da-alvin-bragg-denies-reported-out-of-state-busts-in-case/",
+            "urlToImage": "https://www.nydailynews.com/wp-content/uploads/2024/02/TNY-Bragg-Williams-2268.jpg?w=1024&h=682",
+            "publishedAt": "2024-02-09T00:48:51Z",
+            "content": "Seven people have been indicted in connection to the Times Square melee between a group of migrants and NYPD officers, Manhattan District Attorney Alvin Bragg said at a joint press conference Thursda… [+5851 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Variety"
+            },
+            "author": "Rebecca Rubin",
+            "title": "‘Moana 2’ Was Supposed to Be a Disney+ Series. Why It’s Hitting Movie Theaters Instead - Variety",
+            "description": "Inside Disney's decision to reconfigure \"Moana 2\" from a Disney+ streaming series to a theatrical tentpole releasing this fall.",
+            "url": "https://variety.com/2024/film/news/moana-2-used-to-be-disney-plus-series-theaters-1235902293/",
+            "urlToImage": "https://variety.com/wp-content/uploads/2024/02/moana.jpg?w=1000&h=563&crop=1",
+            "publishedAt": "2024-02-09T00:34:00Z",
+            "content": "In 2020, during the peak of the entertainment industry’s love affair with streaming, a follow-up to Disney‘s animated hit “Moana” was destined to become a television series for Disney+.\r\nBut like the… [+6289 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Mike Snider",
+            "title": "Costco, Trader Joe's pull some products with cheese in expanded recall for listeria risk - USA TODAY",
+            "description": "Cheese products sold at Albertson's, Costco, H-E-B and Trader Joe's were added to those recalled for risk of listeria infection, or Listeriosis.",
+            "url": "https://www.usatoday.com/story/money/food/2024/02/08/cheese-recall-costco-trader-joes-listeria/72528560007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/02/08/USAT/72529495007-trader-joes.jpg?crop=1211,681,x0,y348&width=1211&height=681&format=pjpg&auto=webp",
+            "publishedAt": "2024-02-09T00:21:55Z",
+            "content": "The recall of more than four dozen dairy products for possible listeria contamination has been expanded to include enchiladas, bean dip, dressings and sauces sold at stores including Albertson's, Cos… [+5297 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ABC15 Arizona"
+            },
+            "author": "abc15.com staff, Associated Press",
+            "title": "Arizona Marine among five killed in helicopter crash near San Diego, family says - ABC15 Arizona in Phoenix",
+            "description": "Alec Langen of Chandler, Arizona, was aboard the helicopter at the time of the crash",
+            "url": "https://www.abc15.com/news/state/arizona-marine-among-five-killed-in-helicopter-crash-near-san-diego-family-says",
+            "urlToImage": "https://ewscripps.brightspotcdn.com/dims4/default/f1b1221/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F6c%2Ff4%2F07ce4ce94395a0cdc559cdee2180%2Fcopy-of-do-not-delete-blue-bkg.png",
+            "publishedAt": "2024-02-08T23:44:28Z",
+            "content": "CHANDLER, AZ A Marine sergeant from the Valley was one of five people killed in a military helicopter crash near San Diego earlier this week, according to his family. \r\nAuthorities say the CH-53E Sup… [+2400 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "The Wall Street Journal",
+            "title": "U.S. Airstrike Increases Calls in Iraq to Expel Coalition Forces - The Wall Street Journal",
+            "description": null,
+            "url": "https://www.wsj.com/world/middle-east/u-s-airstrike-increases-pressure-on-iraq-to-expel-coalition-forces-d46a1d63",
+            "urlToImage": null,
+            "publishedAt": "2024-02-08T23:43:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Dan Goodin",
+            "title": "A password manager LastPass calls “fraudulent” booted from App Store - Ars Technica",
+            "description": "\"LassPass\" mimicked the name and logo of real LastPass password manager.",
+            "url": "https://arstechnica.com/security/2024/02/a-password-manager-lastpass-calls-fraudulent-booted-from-app-store/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/phone-threat-760x380.jpeg",
+            "publishedAt": "2024-02-08T22:16:25Z",
+            "content": "43\r\nAs Apple has stepped up its promotion of its App Store as a safer and more trustworthy source of apps, its operators scrambled Thursday to correct a major threat to that narrative: a listing that… [+3867 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Alex Mitchell",
+            "title": "Drop that burger — how pregnant women can harm their baby by eating fast food - New York Post ",
+            "description": "“We don’t blame the pregnant person here,” said researcher Brennan Baker.",
+            "url": "https://nypost.com/2024/02/08/lifestyle/how-pregnant-women-can-harm-their-baby-by-eating-fast-food/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/02/pregnant-comp.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2024-02-08T22:00:00Z",
+            "content": "It may be the ultimate sacrifries.\r\nNew research warns that eating ultra-processed or fast food during pregnancy puts the fetus at a greater health risk.\r\nGreasiness and calories aside, the risk stem… [+1964 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Janelle Ash",
+            "title": "Queen Camilla shares King Charles health update after cancer diagnosis - Fox News",
+            "description": "Queen Camilla shared a brief health update about King Charles on Thursday. Charles' wife said he's doing \"extremely well\" given the circumstances.",
+            "url": "https://www.foxnews.com/entertainment/queen-camilla-shares-king-charles-health-update-after-cancer-diagnosis",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/04/king-charles-coronation.jpg",
+            "publishedAt": "2024-02-08T21:37:00Z",
+            "content": "Queen Camilla is sharing an update on King Charles after Buckingham Palace announced his cancer diagnosis earlier this week.\r\nOn Thursday, Camilla resumed her royal duties and attended Salisbury Cath… [+3578 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Passant Rabie",
+            "title": "Saturn's 'Death Star' Moon Is Hiding an Ocean Beneath Its Mangled Surface - Gizmodo",
+            "description": "Mimas joins an elite club of solar system moons harboring subsurface oceans with potential habitability.",
+            "url": "https://gizmodo.com/saturns-death-star-moon-is-hiding-an-ocean-beneath-its-1851239880",
+            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/379d905d960331700f1c02ca06817e68.jpg",
+            "publishedAt": "2024-02-08T21:25:00Z",
+            "content": "An odd little moon that orbits closely to Saturn just revealed its biggest mystery: a hidden ocean that lies beneath its heavily cratered surface. \r\nMimas is less than 123 miles (198 kilometers) wide… [+2955 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MarketWatch"
+            },
+            "author": "Jon Swartz",
+            "title": "Pinterest’s stock takes a hit after revenue miss, middling guidance - MarketWatch",
+            "description": "Pinterest Inc.’s stock fell in volatile after-hours trading Thursday after the company reported a revenue miss and offered ho-hum guidance.",
+            "url": "https://www.marketwatch.com/story/pinterests-stock-takes-a-hit-after-revenue-miss-99d88759",
+            "urlToImage": "https://images.mktw.net/im-273446/social",
+            "publishedAt": "2024-02-08T21:19:00Z",
+            "content": "Pinterest Inc.s stock fell in volatile after-hours trading Thursday after the company reported a revenue miss and offered ho-hum guidance. Pinterest \r\n PINS,\r\n -0.27%\r\nreported fiscal fourth-quarter … [+2075 chars]"
+        }
+    ]
+}
